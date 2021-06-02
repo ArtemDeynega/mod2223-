@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://seryoga-nosik.github.io/ddt-project",
+  "homepage": "https://ArtemDeynega.github.io/mod2223-",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /ddt-project/",
+    "predeploy": "npm run build -- --public-url /mod2223-/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Artem Deynega <artem.deynega89@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
